@@ -1,0 +1,19 @@
+{
+    "name": "arthur/nguekeucv",
+    "type": "projet",
+    "autoload": {
+        "psr-4": {
+            "Arthur\\Nguekeucv\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nguekeuarthur",
+            "email": "nguekeu96@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "phpmailer/phpmailer": "^6.5"
+    }
+}
